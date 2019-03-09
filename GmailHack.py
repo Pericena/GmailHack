@@ -63,9 +63,6 @@ for password in passwfile:
 		print       			      bcolors.FAIL +    "Password Incorrect:   %s" %  password  +   bcolors.ENDC
 
 		
-#elpscrk -list pswList.list-add Dylan; June 3rd, Stonehenge
-		
-		
 print user
 print password
 		
